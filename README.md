@@ -1,6 +1,6 @@
 <!-- Profile README -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh5N2V1cGdhaGZpNXRqeTV0NGRsZWVqdTR0OTB2c2lseDVkZjFvbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" width="300" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWozdmdzdXNyMnhja2xjeTN3Nnd5MTRjMnJneWk5dm0xeXZxM3BhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="300" />
   
   # 👋 Hi, I’m Bauti
 
