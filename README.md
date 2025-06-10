@@ -1,16 +1,33 @@
-## Hi there 👋
+<!-- Profile README -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh5N2V1cGdhaGZpNXRqeTV0NGRsZWVqdTR0OTB2c2lseDVkZjFvbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" width="300" alt="Soccer Passion" />
+  
+  # 👋 Hi, I’m Bauti
 
-<!--
-**bautigaraventa/bautigaraventa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer from Argentina  
+⚽ Soccer enthusiast | Product builder | Startup lover
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💡 Since day one, I’ve been passionate about **building products that matter** — and moving fast to make them happen.
+
+I’ve worked in both **big companies** and **small teams**, and I know for sure:  
+👉 I thrive in startup environments.
+
+I enjoy:
+
+- Moving fast and shipping often 🚢
+- Building things that users actually need 💬
+- Collaborating with small, focused teams 🤝
+- Making decisions and pushing things forward every day 🚀
+
+---
+
+### 📫 Let's connect!
+
+- [LinkedIn](https://linkedin.com/in/bauti-garaventa)
+- [Email](mailto:bautistagaraventa@hotmail.com)
+
+---
