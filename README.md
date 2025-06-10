@@ -1,6 +1,6 @@
 <!-- Profile README -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh5N2V1cGdhaGZpNXRqeTV0NGRsZWVqdTR0OTB2c2lseDVkZjFvbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" width="300" alt="Soccer Passion" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh5N2V1cGdhaGZpNXRqeTV0NGRsZWVqdTR0OTB2c2lseDVkZjFvbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" width="300" />
   
   # 👋 Hi, I’m Bauti
 
